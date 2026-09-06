@@ -25,8 +25,7 @@ Power BI Dashboard
 - [add 2-3 more of your findings]
 
 ## Dashboard Preview
-![Flipkart Dashboard](screenshots/Dashboard_Final.png)
-
+![Flipkart Dashboard](Screenshots/Dashboard_Final.png)
 ## Files
 - `/Business_problem` - All business question queries
 - `/Load_Data` - ETL script for data loading
